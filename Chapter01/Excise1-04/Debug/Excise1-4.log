@@ -1,4 +1,0 @@
-﻿  1-4.c
-e:\myproduct\c++\the c programming language\chapter01\excise1-4\1-4.c(14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-e:\myproduct\c++\the c programming language\chapter01\excise1-4\1-4.c(17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Excise1-4.vcxproj -> E:\MyProduct\C++\The C Programming Language\Chapter01\Debug\Excise1-4.exe

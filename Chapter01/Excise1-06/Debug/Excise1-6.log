@@ -1,3 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Excise1-6.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  1-6.c
-  Excise1-6.vcxproj -> E:\MyProduct\C++\The-C-Programming-Language\Chapter01\Debug\Excise1-06.exe
