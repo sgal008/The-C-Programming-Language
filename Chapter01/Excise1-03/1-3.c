@@ -14,7 +14,7 @@ main()
 	fahr = lower;
 	printf("使用公式℃=(5/9)*(℉-32)打印华氏温度与摄氏温度对照表\n");/*我自己加的*/
 	printf("Fahr  Celsius\n");
-	while (fahr < upper)
+	while (fahr <= upper)
 	{
 		celsius = (5.0 / 9.0) * (fahr - 32.0);
 		printf("%3.0f %6.1f\n", fahr, celsius);
